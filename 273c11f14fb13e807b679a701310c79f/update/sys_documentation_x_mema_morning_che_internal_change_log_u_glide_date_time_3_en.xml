@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_glide_date_time_3" label="Proposed Date/Time" language="en" table="x_mema_morning_che_internal_change_log">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_glide_date_time_3</element>
+            <help/>
+            <hint/>
+            <label>Proposed Date/Time</label>
+            <language>en</language>
+            <name>x_mema_morning_che_internal_change_log</name>
+            <plural>Proposed Date/Times</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>sandeep.shrestha</sys_created_by>
+            <sys_created_on>2020-08-13 01:21:03</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>1d122a5adbee1410f92e96888a9619dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Proposed Date/Time</sys_name>
+            <sys_package display_value="Sysadmin" source="x_mema_morning_che">273c11f14fb13e807b679a701310c79f</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Sysadmin">273c11f14fb13e807b679a701310c79f</sys_scope>
+            <sys_update_name>sys_documentation_x_mema_morning_che_internal_change_log_u_glide_date_time_3_en</sys_update_name>
+            <sys_updated_by>sandeep.shrestha</sys_updated_by>
+            <sys_updated_on>2020-08-13 01:21:03</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

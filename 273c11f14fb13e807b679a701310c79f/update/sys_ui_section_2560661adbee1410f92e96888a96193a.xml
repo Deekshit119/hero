@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="2560661adbee1410f92e96888a96193a" sys_domain="global" table="x_mema_morning_che_internal_change_log" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>sandeep.shrestha</sys_created_by>
+            <sys_created_on>2020-08-13 01:21:04</sys_created_on>
+            <sys_id>61126a5adbee1410f92e96888a961936</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_mema_morning_che_internal_change_log" sys_domain="global" view="Default view">2560661adbee1410f92e96888a96193a</sys_ui_section>
+            <sys_updated_by>sandeep.shrestha</sys_updated_by>
+            <sys_updated_on>2020-08-13 01:21:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_server</element>
+            <position>1</position>
+            <sys_created_by>sandeep.shrestha</sys_created_by>
+            <sys_created_on>2020-08-13 01:21:04</sys_created_on>
+            <sys_id>e1126a5adbee1410f92e96888a961936</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_mema_morning_che_internal_change_log" sys_domain="global" view="Default view">2560661adbee1410f92e96888a96193a</sys_ui_section>
+            <sys_updated_by>sandeep.shrestha</sys_updated_by>
+            <sys_updated_on>2020-08-13 01:21:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_effected</element>
+            <position>2</position>
+            <sys_created_by>sandeep.shrestha</sys_created_by>
+            <sys_created_on>2020-08-13 01:21:04</sys_created_on>
+            <sys_id>65126a5adbee1410f92e96888a961936</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_mema_morning_che_internal_change_log" sys_domain="global" view="Default view">2560661adbee1410f92e96888a96193a</sys_ui_section>
+            <sys_updated_by>sandeep.shrestha</sys_updated_by>
+            <sys_updated_on>2020-08-13 01:21:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>sandeep.shrestha</sys_created_by>
+            <sys_created_on>2020-08-13 01:21:04</sys_created_on>
+            <sys_id>e5126a5adbee1410f92e96888a961936</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_mema_morning_che_internal_change_log" sys_domain="global" view="Default view">2560661adbee1410f92e96888a96193a</sys_ui_section>
+            <sys_updated_by>sandeep.shrestha</sys_updated_by>
+            <sys_updated_on>2020-08-13 01:21:04</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_created_on</element>
+            <position>4</position>
+            <sys_created_by>sandeep.shrestha</sys_created_by>
+            <sys_created_on>2020-08-13 01:21:04</sys_created_on>
+            <sys_id>69126a5adbee1410f92e96888a961936</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_mema_morning_che_internal_change_log" sys_domain="global" view="Default view">2560661adbee1410f92e96888a96193a</sys_ui_section>
+            <sys_updated_by>sandeep.shrestha</sys_updated_by>
+            <sys_updated_on>2020-08-13 01:21:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_glide_date_time_3</element>
+            <position>5</position>
+            <sys_created_by>sandeep.shrestha</sys_created_by>
+            <sys_created_on>2020-08-13 01:21:04</sys_created_on>
+            <sys_id>e9126a5adbee1410f92e96888a961936</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_mema_morning_che_internal_change_log" sys_domain="global" view="Default view">2560661adbee1410f92e96888a96193a</sys_ui_section>
+            <sys_updated_by>sandeep.shrestha</sys_updated_by>
+            <sys_updated_on>2020-08-13 01:21:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>6</position>
+            <sys_created_by>sandeep.shrestha</sys_created_by>
+            <sys_created_on>2020-08-13 01:21:04</sys_created_on>
+            <sys_id>6d126a5adbee1410f92e96888a961936</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_mema_morning_che_internal_change_log" sys_domain="global" view="Default view">2560661adbee1410f92e96888a96193a</sys_ui_section>
+            <sys_updated_by>sandeep.shrestha</sys_updated_by>
+            <sys_updated_on>2020-08-13 01:21:04</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_short_des</element>
+            <position>7</position>
+            <sys_created_by>sandeep.shrestha</sys_created_by>
+            <sys_created_on>2020-08-13 01:21:04</sys_created_on>
+            <sys_id>ed126a5adbee1410f92e96888a961936</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_mema_morning_che_internal_change_log" sys_domain="global" view="Default view">2560661adbee1410f92e96888a96193a</sys_ui_section>
+            <sys_updated_by>sandeep.shrestha</sys_updated_by>
+            <sys_updated_on>2020-08-13 01:21:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_mema_morning_che_internal_change_log</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>sandeep.shrestha</sys_created_by>
+            <sys_created_on>2020-08-13 01:13:42</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2560661adbee1410f92e96888a96193a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_mema_morning_che_internal_change_log</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Sysadmin" source="x_mema_morning_che">273c11f14fb13e807b679a701310c79f</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Sysadmin">273c11f14fb13e807b679a701310c79f</sys_scope>
+            <sys_update_name>sys_ui_section_2560661adbee1410f92e96888a96193a</sys_update_name>
+            <sys_updated_by>sandeep.shrestha</sys_updated_by>
+            <sys_updated_on>2020-08-13 01:13:42</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

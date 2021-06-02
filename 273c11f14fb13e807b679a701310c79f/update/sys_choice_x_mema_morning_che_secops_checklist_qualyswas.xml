@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="qualyswas" table="x_mema_morning_che_secops_checklist" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>qualyswas</element>
+            <name>x_mema_morning_che_secops_checklist</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>john.reczniarek</sys_created_by>
+            <sys_created_on>2021-03-17 23:48:45</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>38fde780dbcf2c102283322af496191d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>qualyswas</sys_name>
+            <sys_package display_value="Sysadmin" source="x_mema_morning_che">273c11f14fb13e807b679a701310c79f</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Sysadmin">273c11f14fb13e807b679a701310c79f</sys_scope>
+            <sys_update_name>sys_choice_x_mema_morning_che_secops_checklist_qualyswas</sys_update_name>
+            <sys_updated_by>john.reczniarek</sys_updated_by>
+            <sys_updated_on>2021-03-17 23:48:45</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>qualyswas</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>To-Do</label>
+            <language>en</language>
+            <name>x_mema_morning_che_secops_checklist</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>john.reczniarek</sys_created_by>
+            <sys_created_on>2021-03-17 23:48:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f4fdab80dbcf2c102283322af496192b</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>john.reczniarek</sys_updated_by>
+            <sys_updated_on>2021-03-17 23:48:53</sys_updated_on>
+            <value>todo</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>qualyswas</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Done</label>
+            <language>en</language>
+            <name>x_mema_morning_che_secops_checklist</name>
+            <sequence>10</sequence>
+            <synonyms/>
+            <sys_created_by>john.reczniarek</sys_created_by>
+            <sys_created_on>2021-03-17 23:48:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>37fc2b40dbcf2c102283322af4961995</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>john.reczniarek</sys_updated_by>
+            <sys_updated_on>2021-03-17 23:48:47</sys_updated_on>
+            <value>done</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>qualyswas</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>None</label>
+            <language>en</language>
+            <name>x_mema_morning_che_secops_checklist</name>
+            <sequence>20</sequence>
+            <synonyms/>
+            <sys_created_by>john.reczniarek</sys_created_by>
+            <sys_created_on>2021-03-17 23:48:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>12fd2380dbcf2c102283322af4961998</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>john.reczniarek</sys_updated_by>
+            <sys_updated_on>2021-03-17 23:49:01</sys_updated_on>
+            <value>none</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

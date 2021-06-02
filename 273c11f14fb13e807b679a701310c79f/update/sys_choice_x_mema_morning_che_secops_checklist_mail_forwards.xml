@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="mail_forwards" table="x_mema_morning_che_secops_checklist" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>mail_forwards</element>
+            <name>x_mema_morning_che_secops_checklist</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>john.reczniarek</sys_created_by>
+            <sys_created_on>2021-05-04 01:09:56</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>9843ca5bdbf328502283322af4961951</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>mail_forwards</sys_name>
+            <sys_package display_value="Sysadmin" source="x_mema_morning_che">273c11f14fb13e807b679a701310c79f</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Sysadmin">273c11f14fb13e807b679a701310c79f</sys_scope>
+            <sys_update_name>sys_choice_x_mema_morning_che_secops_checklist_mail_forwards</sys_update_name>
+            <sys_updated_by>john.reczniarek</sys_updated_by>
+            <sys_updated_on>2021-05-04 01:09:56</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>mail_forwards</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Done Today</label>
+            <language>en</language>
+            <name>x_mema_morning_che_secops_checklist</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>john.reczniarek</sys_created_by>
+            <sys_created_on>2021-05-04 01:09:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dc13865bdbf328502283322af49619f3</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>john.reczniarek</sys_updated_by>
+            <sys_updated_on>2021-05-04 01:11:39</sys_updated_on>
+            <value>done</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>mail_forwards</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Done this cycle</label>
+            <language>en</language>
+            <name>x_mema_morning_che_secops_checklist</name>
+            <sequence>10</sequence>
+            <synonyms/>
+            <sys_created_by>john.reczniarek</sys_created_by>
+            <sys_created_on>2021-05-04 01:10:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>90430a1bdbf328502283322af49619ba</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>john.reczniarek</sys_updated_by>
+            <sys_updated_on>2021-05-04 01:11:42</sys_updated_on>
+            <value>alreadydone</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>mail_forwards</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Not Done</label>
+            <language>en</language>
+            <name>x_mema_morning_che_secops_checklist</name>
+            <sequence>20</sequence>
+            <synonyms/>
+            <sys_created_by>john.reczniarek</sys_created_by>
+            <sys_created_on>2021-05-04 01:10:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9943029bdbf328502283322af496191f</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>john.reczniarek</sys_updated_by>
+            <sys_updated_on>2021-05-04 01:11:44</sys_updated_on>
+            <value>notdone</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

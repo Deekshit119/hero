@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <mobile_app_menu/>
+        <name/>
+        <order>100</order>
+        <roles>snc_internal</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>john.reczniarek</sys_created_by>
+        <sys_created_on>2021-03-17 23:53:17</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>30fe6fc0dbcf2c102283322af4961902</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Security</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Sysadmin" source="x_mema_morning_che">273c11f14fb13e807b679a701310c79f</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Sysadmin">273c11f14fb13e807b679a701310c79f</sys_scope>
+        <sys_update_name>sys_app_application_30fe6fc0dbcf2c102283322af4961902</sys_update_name>
+        <sys_updated_by>john.reczniarek</sys_updated_by>
+        <sys_updated_on>2021-03-17 23:53:17</sys_updated_on>
+        <title>Security</title>
+        <view_name/>
+        <view_on_mobile>false</view_on_mobile>
+    </sys_app_application>
+</record_update>
