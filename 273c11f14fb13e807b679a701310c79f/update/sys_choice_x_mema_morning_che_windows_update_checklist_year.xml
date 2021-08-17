@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="year" table="x_mema_morning_che_windows_update_checklist" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>year</element>
+            <name>x_mema_morning_che_windows_update_checklist</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>john.reczniarek</sys_created_by>
+            <sys_created_on>2021-07-20 10:17:23</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>aaf268dcdba1f010c5d69517f3961999</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>year</sys_name>
+            <sys_package display_value="Sysadmin" source="x_mema_morning_che">273c11f14fb13e807b679a701310c79f</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Sysadmin">273c11f14fb13e807b679a701310c79f</sys_scope>
+            <sys_update_name>sys_choice_x_mema_morning_che_windows_update_checklist_year</sys_update_name>
+            <sys_updated_by>john.reczniarek</sys_updated_by>
+            <sys_updated_on>2021-07-20 10:17:23</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>year</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2021</label>
+            <language>en</language>
+            <name>x_mema_morning_che_windows_update_checklist</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>john.reczniarek</sys_created_by>
+            <sys_created_on>2021-07-20 10:17:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0c3260dcdba1f010c5d69517f39619f2</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>john.reczniarek</sys_updated_by>
+            <sys_updated_on>2021-07-20 10:17:27</sys_updated_on>
+            <value>2021</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>year</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2022</label>
+            <language>en</language>
+            <name>x_mema_morning_che_windows_update_checklist</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>john.reczniarek</sys_created_by>
+            <sys_created_on>2021-07-20 10:17:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e6f2ecdcdba1f010c5d69517f39619c0</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>john.reczniarek</sys_updated_by>
+            <sys_updated_on>2021-07-20 10:17:34</sys_updated_on>
+            <value>2022</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>year</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2023</label>
+            <language>en</language>
+            <name>x_mema_morning_che_windows_update_checklist</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>john.reczniarek</sys_created_by>
+            <sys_created_on>2021-07-20 10:17:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5803a8dcdba1f010c5d69517f39619b7</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>john.reczniarek</sys_updated_by>
+            <sys_updated_on>2021-07-20 10:17:45</sys_updated_on>
+            <value>2023</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>year</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2024</label>
+            <language>en</language>
+            <name>x_mema_morning_che_windows_update_checklist</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>john.reczniarek</sys_created_by>
+            <sys_created_on>2021-07-20 10:17:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>be032010dbe1f010c5d69517f39619dd</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>john.reczniarek</sys_updated_by>
+            <sys_updated_on>2021-07-20 10:17:53</sys_updated_on>
+            <value>2024</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>year</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2025</label>
+            <language>en</language>
+            <name>x_mema_morning_che_windows_update_checklist</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>john.reczniarek</sys_created_by>
+            <sys_created_on>2021-07-20 10:17:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2813a8dcdba1f010c5d69517f39619f1</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>john.reczniarek</sys_updated_by>
+            <sys_updated_on>2021-07-20 10:18:00</sys_updated_on>
+            <value>2025</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>year</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2026</label>
+            <language>en</language>
+            <name>x_mema_morning_che_windows_update_checklist</name>
+            <sequence>5</sequence>
+            <synonyms/>
+            <sys_created_by>john.reczniarek</sys_created_by>
+            <sys_created_on>2021-07-20 10:18:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2613acdcdba1f010c5d69517f396198c</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>john.reczniarek</sys_updated_by>
+            <sys_updated_on>2021-07-20 10:18:11</sys_updated_on>
+            <value>2026</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>year</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2027</label>
+            <language>en</language>
+            <name>x_mema_morning_che_windows_update_checklist</name>
+            <sequence>6</sequence>
+            <synonyms/>
+            <sys_created_by>john.reczniarek</sys_created_by>
+            <sys_created_on>2021-07-20 10:18:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7c232010dbe1f010c5d69517f39619de</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>john.reczniarek</sys_updated_by>
+            <sys_updated_on>2021-07-20 10:18:25</sys_updated_on>
+            <value>2027</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>year</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2028</label>
+            <language>en</language>
+            <name>x_mema_morning_che_windows_update_checklist</name>
+            <sequence>7</sequence>
+            <synonyms/>
+            <sys_created_by>john.reczniarek</sys_created_by>
+            <sys_created_on>2021-07-20 10:18:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6b23a010dbe1f010c5d69517f39619eb</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>john.reczniarek</sys_updated_by>
+            <sys_updated_on>2021-07-20 10:18:32</sys_updated_on>
+            <value>2028</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>year</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2029</label>
+            <language>en</language>
+            <name>x_mema_morning_che_windows_update_checklist</name>
+            <sequence>8</sequence>
+            <synonyms/>
+            <sys_created_by>john.reczniarek</sys_created_by>
+            <sys_created_on>2021-07-20 10:18:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>12336010dbe1f010c5d69517f39619a7</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>john.reczniarek</sys_updated_by>
+            <sys_updated_on>2021-07-20 10:18:40</sys_updated_on>
+            <value>2029</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>year</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2030</label>
+            <language>en</language>
+            <name>x_mema_morning_che_windows_update_checklist</name>
+            <sequence>9</sequence>
+            <synonyms/>
+            <sys_created_by>john.reczniarek</sys_created_by>
+            <sys_created_on>2021-07-20 10:18:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>04432010dbe1f010c5d69517f39619e2</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>john.reczniarek</sys_updated_by>
+            <sys_updated_on>2021-07-20 10:18:51</sys_updated_on>
+            <value>2030</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

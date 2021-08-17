@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="bitlocker" label="Bitlocker" language="en" table="x_mema_morning_che_secops_checklist">
+    <sys_documentation element="fast_ring_released" label="Fast Ring Released Date" language="en" table="x_mema_morning_che_windows_update_checklist">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element>bitlocker</element>
+            <element>fast_ring_released</element>
             <help/>
             <hint/>
-            <label>Bitlocker</label>
+            <label>Fast Ring Released Date</label>
             <language>en</language>
-            <name>x_mema_morning_che_secops_checklist</name>
-            <plural>Bitlockers</plural>
+            <name>x_mema_morning_che_windows_update_checklist</name>
+            <plural>Fast Ring Released Dates</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>john.reczniarek</sys_created_by>
-            <sys_created_on>2021-05-03 23:51:15</sys_created_on>
+            <sys_created_on>2021-07-20 10:13:32</sys_created_on>
             <sys_customer_update>false</sys_customer_update>
-            <sys_id>2b31351bdbb328502283322af4961918</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_name>Bitlocker</sys_name>
+            <sys_id>f112ac9cdba1f010c5d69517f39619c4</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>Fast Ring Released Date</sys_name>
             <sys_package display_value="Sysadmin" source="x_mema_morning_che">273c11f14fb13e807b679a701310c79f</sys_package>
             <sys_policy/>
             <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
             <sys_scope display_value="Sysadmin">273c11f14fb13e807b679a701310c79f</sys_scope>
-            <sys_update_name>sys_documentation_x_mema_morning_che_secops_checklist_bitlocker_en</sys_update_name>
+            <sys_update_name>sys_documentation_x_mema_morning_che_windows_update_checklist_fast_ring_released_en</sys_update_name>
             <sys_updated_by>john.reczniarek</sys_updated_by>
-            <sys_updated_on>2021-05-03 23:51:15</sys_updated_on>
+            <sys_updated_on>2021-07-20 10:25:55</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>

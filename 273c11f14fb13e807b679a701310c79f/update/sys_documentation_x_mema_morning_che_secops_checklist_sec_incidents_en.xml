@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="qualys_scan" label="Qualys scan" language="en" table="x_mema_morning_che_secops_checklist">
+    <sys_documentation element="sec_incidents" label="Unallocated Security Tickets" language="en" table="x_mema_morning_che_secops_checklist">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element>qualys_scan</element>
+            <element>sec_incidents</element>
             <help/>
             <hint/>
-            <label>Qualys scan</label>
+            <label>Unallocated Security Tickets</label>
             <language>en</language>
             <name>x_mema_morning_che_secops_checklist</name>
-            <plural>Qualys scans</plural>
+            <plural>Unallocated Security Tickets</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>john.reczniarek</sys_created_by>
-            <sys_created_on>2021-05-03 23:51:16</sys_created_on>
+            <sys_created_on>2021-07-23 06:00:31</sys_created_on>
             <sys_customer_update>false</sys_customer_update>
-            <sys_id>4c41351bdbb328502283322af49619ab</sys_id>
+            <sys_id>cdf40b89db29b410c5d69517f396198a</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>Qualys scan</sys_name>
+            <sys_name>Unallocated Security Tickets</sys_name>
             <sys_package display_value="Sysadmin" source="x_mema_morning_che">273c11f14fb13e807b679a701310c79f</sys_package>
             <sys_policy/>
             <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
             <sys_scope display_value="Sysadmin">273c11f14fb13e807b679a701310c79f</sys_scope>
-            <sys_update_name>sys_documentation_x_mema_morning_che_secops_checklist_qualys_scan_en</sys_update_name>
+            <sys_update_name>sys_documentation_x_mema_morning_che_secops_checklist_sec_incidents_en</sys_update_name>
             <sys_updated_by>john.reczniarek</sys_updated_by>
-            <sys_updated_on>2021-05-03 23:51:16</sys_updated_on>
+            <sys_updated_on>2021-07-23 06:00:31</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>
