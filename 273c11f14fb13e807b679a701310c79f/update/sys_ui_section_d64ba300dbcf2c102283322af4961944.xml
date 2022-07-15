@@ -1,72 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_ui_section caption="Ongoing Totals" section_id="d64ba300dbcf2c102283322af4961944" sys_domain="global" table="x_mema_morning_che_secops_checklist" version="3" view="">
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>qualys</element>
+            <element>pdq</element>
             <position>0</position>
-            <sys_created_by>john.reczniarek</sys_created_by>
-            <sys_created_on>2021-07-23 06:38:27</sys_created_on>
-            <sys_id>38ad8bc1db69b410c5d69517f39619d6</sys_id>
+            <sys_created_by>sandeep.shrestha</sys_created_by>
+            <sys_created_on>2022-06-15 04:43:47</sys_created_on>
+            <sys_id>8543b612db84d9102283322af496191c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Ongoing Totals" display_value="Ongoing Totals" name="x_mema_morning_che_secops_checklist" sys_domain="global" view="Default view">d64ba300dbcf2c102283322af4961944</sys_ui_section>
-            <sys_updated_by>john.reczniarek</sys_updated_by>
-            <sys_updated_on>2021-07-23 06:38:27</sys_updated_on>
+            <sys_updated_by>sandeep.shrestha</sys_updated_by>
+            <sys_updated_on>2022-06-15 04:43:47</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>pdq</element>
+            <element>qualys</element>
             <position>1</position>
-            <sys_created_by>john.reczniarek</sys_created_by>
-            <sys_created_on>2021-07-23 06:38:27</sys_created_on>
-            <sys_id>b8ad8bc1db69b410c5d69517f39619d6</sys_id>
+            <sys_created_by>sandeep.shrestha</sys_created_by>
+            <sys_created_on>2022-06-15 04:43:47</sys_created_on>
+            <sys_id>8d43b612db84d9102283322af496191c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Ongoing Totals" display_value="Ongoing Totals" name="x_mema_morning_che_secops_checklist" sys_domain="global" view="Default view">d64ba300dbcf2c102283322af4961944</sys_ui_section>
-            <sys_updated_by>john.reczniarek</sys_updated_by>
-            <sys_updated_on>2021-07-23 06:38:27</sys_updated_on>
+            <sys_updated_by>sandeep.shrestha</sys_updated_by>
+            <sys_updated_on>2022-06-15 04:43:47</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
             <position>2</position>
-            <sys_created_by>john.reczniarek</sys_created_by>
-            <sys_created_on>2021-07-23 06:38:27</sys_created_on>
-            <sys_id>3cad8bc1db69b410c5d69517f39619d6</sys_id>
+            <sys_created_by>sandeep.shrestha</sys_created_by>
+            <sys_created_on>2022-06-15 04:43:47</sys_created_on>
+            <sys_id>8143b612db84d9102283322af496191d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Ongoing Totals" display_value="Ongoing Totals" name="x_mema_morning_che_secops_checklist" sys_domain="global" view="Default view">d64ba300dbcf2c102283322af4961944</sys_ui_section>
-            <sys_updated_by>john.reczniarek</sys_updated_by>
-            <sys_updated_on>2021-07-23 06:38:27</sys_updated_on>
+            <sys_updated_by>sandeep.shrestha</sys_updated_by>
+            <sys_updated_on>2022-06-15 04:43:47</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>chrome</element>
             <position>3</position>
-            <sys_created_by>john.reczniarek</sys_created_by>
-            <sys_created_on>2021-07-23 06:38:27</sys_created_on>
-            <sys_id>bcad8bc1db69b410c5d69517f39619d6</sys_id>
+            <sys_created_by>sandeep.shrestha</sys_created_by>
+            <sys_created_on>2022-06-15 04:43:47</sys_created_on>
+            <sys_id>8543b612db84d9102283322af496191d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Ongoing Totals" display_value="Ongoing Totals" name="x_mema_morning_che_secops_checklist" sys_domain="global" view="Default view">d64ba300dbcf2c102283322af4961944</sys_ui_section>
-            <sys_updated_by>john.reczniarek</sys_updated_by>
-            <sys_updated_on>2021-07-23 06:38:27</sys_updated_on>
+            <sys_updated_by>sandeep.shrestha</sys_updated_by>
+            <sys_updated_on>2022-06-15 04:43:47</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>eol</element>
             <position>4</position>
-            <sys_created_by>john.reczniarek</sys_created_by>
-            <sys_created_on>2021-07-23 06:38:27</sys_created_on>
-            <sys_id>30ad8bc1db69b410c5d69517f39619d7</sys_id>
+            <sys_created_by>sandeep.shrestha</sys_created_by>
+            <sys_created_on>2022-06-15 04:43:47</sys_created_on>
+            <sys_id>8943b612db84d9102283322af496191d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Ongoing Totals" display_value="Ongoing Totals" name="x_mema_morning_che_secops_checklist" sys_domain="global" view="Default view">d64ba300dbcf2c102283322af4961944</sys_ui_section>
-            <sys_updated_by>john.reczniarek</sys_updated_by>
-            <sys_updated_on>2021-07-23 06:38:27</sys_updated_on>
+            <sys_updated_by>sandeep.shrestha</sys_updated_by>
+            <sys_updated_on>2022-06-15 04:43:47</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

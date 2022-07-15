@@ -1,58 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_ui_section caption="Important Alerts" section_id="df8a6b4cdb8f2c102283322af4961992" sys_domain="global" table="x_mema_morning_che_secops_checklist" version="3" view="">
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>applocker</element>
+            <element>carbon_app</element>
             <position>0</position>
-            <sys_created_by>john.reczniarek</sys_created_by>
-            <sys_created_on>2021-07-23 06:38:27</sys_created_on>
-            <sys_id>2cad8bc1db69b410c5d69517f39619cd</sys_id>
+            <sys_created_by>sandeep.shrestha</sys_created_by>
+            <sys_created_on>2022-06-15 04:40:36</sys_created_on>
+            <sys_id>66823adedb44d9102283322af4961927</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Important Alerts" display_value="Important Alerts" name="x_mema_morning_che_secops_checklist" sys_domain="global" view="Default view">df8a6b4cdb8f2c102283322af4961992</sys_ui_section>
-            <sys_updated_by>john.reczniarek</sys_updated_by>
-            <sys_updated_on>2021-07-23 06:38:27</sys_updated_on>
+            <sys_updated_by>sandeep.shrestha</sys_updated_by>
+            <sys_updated_on>2022-06-15 04:40:36</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>carbon_black</element>
             <position>1</position>
-            <sys_created_by>john.reczniarek</sys_created_by>
-            <sys_created_on>2021-07-23 06:38:27</sys_created_on>
-            <sys_id>acad8bc1db69b410c5d69517f39619cd</sys_id>
+            <sys_created_by>sandeep.shrestha</sys_created_by>
+            <sys_created_on>2022-06-15 04:40:36</sys_created_on>
+            <sys_id>ae823adedb44d9102283322af4961927</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Important Alerts" display_value="Important Alerts" name="x_mema_morning_che_secops_checklist" sys_domain="global" view="Default view">df8a6b4cdb8f2c102283322af4961992</sys_ui_section>
-            <sys_updated_by>john.reczniarek</sys_updated_by>
-            <sys_updated_on>2021-07-23 06:38:27</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>o365</element>
-            <position>2</position>
-            <sys_created_by>john.reczniarek</sys_created_by>
-            <sys_created_on>2021-07-23 06:38:27</sys_created_on>
-            <sys_id>20ad8bc1db69b410c5d69517f39619ce</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Important Alerts" display_value="Important Alerts" name="x_mema_morning_che_secops_checklist" sys_domain="global" view="Default view">df8a6b4cdb8f2c102283322af4961992</sys_ui_section>
-            <sys_updated_by>john.reczniarek</sys_updated_by>
-            <sys_updated_on>2021-07-23 06:38:27</sys_updated_on>
+            <sys_updated_by>sandeep.shrestha</sys_updated_by>
+            <sys_updated_on>2022-06-15 04:40:36</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>phishing</element>
-            <position>3</position>
-            <sys_created_by>john.reczniarek</sys_created_by>
-            <sys_created_on>2021-07-23 06:38:27</sys_created_on>
-            <sys_id>a0ad8bc1db69b410c5d69517f39619ce</sys_id>
+            <position>2</position>
+            <sys_created_by>sandeep.shrestha</sys_created_by>
+            <sys_created_on>2022-06-15 04:40:36</sys_created_on>
+            <sys_id>a2823adedb44d9102283322af4961928</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Important Alerts" display_value="Important Alerts" name="x_mema_morning_che_secops_checklist" sys_domain="global" view="Default view">df8a6b4cdb8f2c102283322af4961992</sys_ui_section>
-            <sys_updated_by>john.reczniarek</sys_updated_by>
-            <sys_updated_on>2021-07-23 06:38:27</sys_updated_on>
+            <sys_updated_by>sandeep.shrestha</sys_updated_by>
+            <sys_updated_on>2022-06-15 04:40:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>qualys_notes</element>
+            <position>3</position>
+            <sys_created_by>sandeep.shrestha</sys_created_by>
+            <sys_created_on>2022-06-15 04:40:36</sys_created_on>
+            <sys_id>a6823adedb44d9102283322af4961928</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Important Alerts" display_value="Important Alerts" name="x_mema_morning_che_secops_checklist" sys_domain="global" view="Default view">df8a6b4cdb8f2c102283322af4961992</sys_ui_section>
+            <sys_updated_by>sandeep.shrestha</sys_updated_by>
+            <sys_updated_on>2022-06-15 04:40:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>qualys_was</element>
+            <position>4</position>
+            <sys_created_by>sandeep.shrestha</sys_created_by>
+            <sys_created_on>2022-06-15 04:40:36</sys_created_on>
+            <sys_id>aa823adedb44d9102283322af4961928</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Important Alerts" display_value="Important Alerts" name="x_mema_morning_che_secops_checklist" sys_domain="global" view="Default view">df8a6b4cdb8f2c102283322af4961992</sys_ui_section>
+            <sys_updated_by>sandeep.shrestha</sys_updated_by>
+            <sys_updated_on>2022-06-15 04:40:36</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

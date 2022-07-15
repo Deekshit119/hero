@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <ignore_cache>false</ignore_cache>
+        <is_private>false</is_private>
+        <name>glide.kmf.vault.token</name>
+        <read_roles>maint</read_roles>
+        <suffix/>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>deekshitulu.malladi@snc</sys_created_by>
+        <sys_created_on>2022-07-15 06:14:56</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>30d76d0cdb70dd10c5d69517f3961934</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>glide.kmf.vault.token</sys_name>
+        <sys_package display_value="Sysadmin" source="x_mema_morning_che">273c11f14fb13e807b679a701310c79f</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Sysadmin">273c11f14fb13e807b679a701310c79f</sys_scope>
+        <sys_update_name>sys_properties_30d76d0cdb70dd10c5d69517f3961934</sys_update_name>
+        <sys_updated_by>deekshitulu.malladi@snc</sys_updated_by>
+        <sys_updated_on>2022-07-15 06:14:56</sys_updated_on>
+        <type>string</type>
+        <value>{"expires_at":"2022-07-16 02:14:56","client_token":"b.AAAAAgIZ_2lrQ-SOAweUOWnTggg_MqwCD8Itig0UG-WzhmL4eesx3iDWVGtTYkmS-RERSBJsWh-0IFBBF5nW6G7zvxfWBCrl4iwrL5Uy9EMOBLw7hZzZzbSrC4rMJW_yZTENx6WMNObMOAM7dzRDgo8jv0rwfqgvwyPGHHU3srqF5byb_xUlFfj7SvCcG6xi6yOWcLoijXemmDves3gUC0oRhzAZlf1NTuXcI7BHRBKOniY30nfwbY2z9ZMxEjp2MF4EYoBCQvZROXld01FIikh5V7Dl4Kdyw4rRsEVYF-JouPh67CKwr5S9O-fajNNDpYWAeEFYLN152Y0Ipaq8m3j81gIlFqeqf5EXGnDFVyn1KZHORvtI69nC6K-dP9I25pAbMLOjOaFVE9XyOAc47FXfu-GaI8ILqkc0dqn1m7ycrl54fH-bi-gCnYIlGcddgk1uOvy6ISdbtE5la1PgH2JWtk7ySYNgNJAfHE7bVInmuTSHuRET1U8KtaNQWlhKU6JWFGI-dvq0pgXBvQUspplUMor-FkTkL6FRS-XfjkvRYu9mLs7SCZhLff8p3STcXiEaE3sYkQsVNAhpNrJsMwAImxP0Z_sFGrwHnyinGNqNfDl8z8cQyJzPJbdRvX39tnDIngo6lS8NnfUUtJwpdzO0BeorBg5EaCZkDsgYu68x3WH9DtWqc78ZZhRYcJZygcHnlC6r_Cqik3enzw_mNNGo","lease_duration":"72000"}</value>
+        <write_roles>maint</write_roles>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=30d76d0cdb70dd10c5d69517f3961934"/>
+</record_update>

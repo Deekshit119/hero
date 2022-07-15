@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="SecOps Checklist" max_length="40" name="x_mema_morning_che_secops_checklist" sizeclass="8" type="collection">
+        <element label="Applocker Alerts" max_length="40" name="applocker" type="integer"/>
+        <element label="blockers" max_length="12000" name="blockers" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="C.B.A.C" max_length="12000" name="carbon_app" type="string"/>
+        <element label="C.B.E.S" max_length="12000" name="carbon_black" type="string"/>
+        <element label="Pending Chrome Updates" max_length="40" name="chrome" type="integer"/>
+        <element label="Windows EOL" max_length="40" name="eol" type="integer"/>
+        <element label="ADM Account Access Check (Quarterly)" max_length="40" name="firstwave" type="boolean"/>
+        <element label="Web Usage Report" max_length="40" name="inventory" type="boolean"/>
+        <element label="Sentinel Alert Check" max_length="40" name="mailbox" type="boolean"/>
+        <element label="Mail Forwards (Weekly)" max_length="40" name="mail_foward" type="boolean"/>
+        <element label="Notes" max_length="12000" name="notes" type="string"/>
+        <element label="O365 Alerts" max_length="40" name="o365" type="integer"/>
+        <element label="Other items that need tracking" max_length="40" name="other" type="string"/>
+        <element label="Forti Reporter - All Events" max_length="40" name="pdq" type="integer"/>
+        <element label="phishing" max_length="12000" name="phishing" type="string"/>
+        <element label="O365 Alerts" max_length="40" name="qualys" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Qualys VMDR Notes" max_length="12000" name="qualys_notes" type="string"/>
+        <element label="Qualys Scans (Weekly)" max_length="40" name="qualys_scans" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Qualys WAS Notes" max_length="12000" name="qualys_was" type="string"/>
+        <element label="Qualys Threat Feed Check" max_length="40" name="qualy_vun" type="boolean"/>
+        <element label="Unallocated Tickets" max_length="40" name="sec_incidents" type="boolean"/>
+        <element label="VIP Maintenance (Monthly)" max_length="40" name="vip" type="boolean"/>
+    </element>
+</database>

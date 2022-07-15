@@ -95,21 +95,6 @@
 <td>&nbsp;${dnz_unibis}</td>
 <td>&nbsp;${dnz_unibis_info}</td>
 </tr>
-<tr>
-<td>&nbsp;CETNAJ ERP:</td>
-<td>&nbsp;${mopro}</td>
-<td>&nbsp;${mopro_info}</td>
-</tr>
-<tr>
-<td>&nbsp;GAMART ERP:</td>
-<td>&nbsp;${nav}</td>
-<td>&nbsp;${nav_info}</td>
-</tr>
-<tr>
-<td>&nbsp;GO ELECTRICAL ERP:</td>
-<td>&nbsp;${gopro}</td>
-<td>&nbsp;${gopro_info}</td>
-</tr>
 </tbody>
 </table>]]></message_html>
         <message_list/>
@@ -134,7 +119,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>de5c8831dbccf34011e4e43405961969</sys_id>
-        <sys_mod_count>6</sys_mod_count>
+        <sys_mod_count>7</sys_mod_count>
         <sys_name>Weekend Checklist</sys_name>
         <sys_overrides/>
         <sys_package display_value="Sysadmin" source="x_mema_morning_che">273c11f14fb13e807b679a701310c79f</sys_package>
@@ -142,8 +127,8 @@
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Sysadmin">273c11f14fb13e807b679a701310c79f</sys_scope>
         <sys_update_name>sysevent_email_action_de5c8831dbccf34011e4e43405961969</sys_update_name>
-        <sys_updated_by>john.reczniarek</sys_updated_by>
-        <sys_updated_on>2019-03-21 02:33:25</sys_updated_on>
+        <sys_updated_by>sandeep.shrestha</sys_updated_by>
+        <sys_updated_on>2022-07-15 03:32:50</sys_updated_on>
         <sys_version>2</sys_version>
         <template/>
         <type>email</type>

@@ -3,6 +3,7 @@
         <css_variables/>
         <default>false</default>
         <enable_ais>false</enable_ais>
+        <enable_favorites>false</enable_favorites>
         <hide_portal_name>false</hide_portal_name>
         <homepage display_value="mmem_jumpbox">8f0f5ba44f1fb6007b679a701310c7fe</homepage>
         <icon/>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Windows Update Checklist" max_length="40" name="x_mema_morning_che_windows_update_checklist" sizeclass="1" type="collection">
+        <element label="Early Ring Checked?" max_length="40" name="early_ring_checked" type="boolean"/>
+        <element label="Early Ring Notes" max_length="4000" name="early_ring_notes" type="string"/>
+        <element label="Early Ring Released Date" max_length="40" name="early_ring_released" type="glide_date"/>
+        <element label="Fast Ring Checked?" max_length="40" name="fast_ring_checked" type="boolean"/>
+        <element label="Fast Ring Notes" max_length="4000" name="fast_ring_notes" type="string"/>
+        <element label="Fast Ring Released Date" max_length="40" name="fast_ring_released" type="glide_date"/>
+        <element label="Main Ring Checked?" max_length="40" name="main_ring_checked" type="boolean"/>
+        <element label="Main Ring Notes" max_length="4000" name="main_ring_notes" type="string"/>
+        <element label="Main Ring Released Date" max_length="40" name="main_ring_released" type="glide_date"/>
+        <element choice="3" default="jan" label="Month" max_length="40" name="month" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="January" sequence="0" value="jan"/>
+                <element inactive_on_update="false" label="February" sequence="1" value="feb"/>
+                <element inactive_on_update="false" label="March" sequence="2" value="mar"/>
+                <element inactive_on_update="false" label="April" sequence="3" value="apr"/>
+                <element inactive_on_update="false" label="May" sequence="4" value="may"/>
+                <element inactive_on_update="false" label="June" sequence="5" value="jun"/>
+                <element inactive_on_update="false" label="July" sequence="6" value="jul"/>
+                <element inactive_on_update="false" label="August" sequence="7" value="aug"/>
+                <element inactive_on_update="false" label="September" sequence="8" value="sep"/>
+                <element inactive_on_update="false" label="October" sequence="9" value="oct"/>
+                <element inactive_on_update="false" label="November" sequence="10" value="nov"/>
+                <element inactive_on_update="false" label="December" sequence="11" value="dev"/>
+            </choice>
+        </element>
+        <element choice="3" default="2022" label="Year" max_length="40" name="year" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="2021" sequence="0" value="2021"/>
+                <element inactive_on_update="false" label="2022" sequence="1" value="2022"/>
+                <element inactive_on_update="false" label="2023" sequence="2" value="2023"/>
+                <element inactive_on_update="false" label="2024" sequence="3" value="2024"/>
+                <element inactive_on_update="false" label="2025" sequence="4" value="2025"/>
+                <element inactive_on_update="false" label="2026" sequence="5" value="2026"/>
+                <element inactive_on_update="false" label="2027" sequence="6" value="2027"/>
+                <element inactive_on_update="false" label="2028" sequence="7" value="2028"/>
+                <element inactive_on_update="false" label="2029" sequence="8" value="2029"/>
+                <element inactive_on_update="false" label="2030" sequence="9" value="2030"/>
+            </choice>
+        </element>
+    </element>
+</database>
